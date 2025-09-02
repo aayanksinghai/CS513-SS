@@ -1,7 +1,7 @@
 /*
 ============================================================================
 Name : 7.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write a program to copy file1 into file2 ($cp file1 file2).
 Date: 24/08/2025
 ============================================================================

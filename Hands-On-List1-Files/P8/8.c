@@ -1,7 +1,7 @@
 /*
 ============================================================================
-Name : 8.c
-Author : Aayank Singhai
+Name : 8.c 
+Author : Aayank Singhai (MT2025001)
 Description : Write a program to open a file in read only mode, read line by line and display each line as it is read.
 Close the file when end of file is reached.
 Date: 24/08/2025
@@ -15,8 +15,8 @@ Date: 24/08/2025
 #define MAX_LINE_LENGTH 2048
 
 int main(int argc, char *argv[]) {
-    int file_descriptor;
-    char character_buffer; //used to read one char at a time
+    int fd;
+    char char_buffer; //used to read one char at a time
     ssize_t bytes_read;
 
     char line_buffer[MAX_LINE_LENGTH]; // buffer for current line
@@ -27,18 +27,18 @@ int main(int argc, char *argv[]) {
         return 1; 
     }
 
-    file_descriptor = open(argv[1], O_RDONLY);
-    if (file_descriptor == -1) {
+    fd = open(argv[1], O_RDONLY);
+    if (fd == -1) {
         perror("Error opening file");
         return 1;
     }
 
-    while ((bytes_read = read(file_descriptor, &character_buffer, 1)) > 0) {
-        line_buffer[line_index] = character_buffer;
+    while ((bytes_read = read(fd, &char_buffer, 1)) > 0) {
+        line_buffer[line_index] = char_buffer;
         line_index++;
 
 
-        if (character_buffer == '\n') {
+        if (char_buffer == '\n') {
             write(1, line_buffer, line_index);
             line_index = 0;
         }
@@ -57,7 +57,7 @@ int main(int argc, char *argv[]) {
         perror("Error reading from file");
     }
 
-    close(file_descriptor);
+    close(fd);
 
     return 0;
 }
