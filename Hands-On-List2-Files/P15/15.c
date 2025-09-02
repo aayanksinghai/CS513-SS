@@ -1,7 +1,7 @@
 /*
 ===========================================================================================================================
 Name : 15.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write a simple program to send some data from parent to the child process.
 Date: 2nd Sept, 2025.
 ===========================================================================================================================

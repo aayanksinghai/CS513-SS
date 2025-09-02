@@ -1,7 +1,7 @@
 /*
 ===========================================================================================================================
 Name : 14.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write a simple program to create a pipe, write to the pipe, read from pipe and display on the monitor.
 Date: 2nd Sept, 2025.
 ===========================================================================================================================
