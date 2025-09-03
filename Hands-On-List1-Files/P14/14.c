@@ -2,7 +2,7 @@
 ============================================================================
 Name : 14.c
 Author : Aayank Singhai (MT2025001)
-Description : 14 Write a program to find the type of a file.
+Description : Write a program to find the type of a file.
 a. Input should be taken from command line.
 b. program should be able to identify any type of a file.
 Date: 27/08/2025
