@@ -2,7 +2,7 @@
 ============================================================================
 Name : 20.c
 Author : Aayank Singhai (MT2025001)
-Description : Write a program to find out time taken to execute getpid system call. Use time stamp counter.
+Description : Find out the priority of your running program. Modify the priority with nice command.
 Date: 28/08/2025
 ============================================================================
 */

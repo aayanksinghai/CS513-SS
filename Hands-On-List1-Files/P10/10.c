@@ -11,9 +11,9 @@ Date: 25/08/2025
 */
 
 #include <stdio.h>
-#include <fcntl.h>     // for open()
-#include <unistd.h>    // for write(), lseek(), close()
-#include <stdlib.h>    // for exit()
+#include <fcntl.h>
+#include <unistd.h>
+#include <stdlib.h>
 
 int main() {
     int fd;

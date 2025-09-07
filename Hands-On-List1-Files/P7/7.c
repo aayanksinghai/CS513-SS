@@ -8,8 +8,8 @@ Date: 24/08/2025
 */
 
 #include <stdio.h>    
-#include <fcntl.h>    // used for file control options like O_RDONLY
-#include <unistd.h>   // used for read, write, close
+#include <fcntl.h>
+#include <unistd.h>
 
 #define BUFFER_SIZE 1024
 
