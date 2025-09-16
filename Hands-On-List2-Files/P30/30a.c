@@ -13,8 +13,8 @@ Date: 16th Sep, 2025.
 #include <sys/shm.h>
 #include <stdio.h>
 
-int main()
-{
+int main(){
+    
     key_t key = ftok(".", 'a');
     int shmid = shmget(key, 1024, IPC_CREAT | 0666);
 
