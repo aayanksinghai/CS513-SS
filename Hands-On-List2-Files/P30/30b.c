@@ -4,7 +4,7 @@ Name : 30b.c
 Author : Aayank Singhai (MT2025001)
 Description : Write a program to create a shared memory.
                 b. Attach with O_RDONLY and check whether you are able to overwrite.
-Date: 16th Sep, 2024.
+Date: 16th Sep, 2025.
 ============================================================================
 */
 
