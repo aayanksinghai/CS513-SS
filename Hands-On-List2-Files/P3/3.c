@@ -1,8 +1,8 @@
 /*
 ===========================================================================================================================
-Name : 2.c
+Name : 3.c
 Author : Aayank Singhai (MT2025001)
-Description : Write a program to print the system resource limits. Use getrlimit system call.
+Description : Write a program to set (any one) system resource limit. Use setrlimit system call.
 Date: 20th Sept, 2025.
 ===========================================================================================================================
 */
