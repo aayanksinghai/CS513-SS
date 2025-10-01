@@ -1,7 +1,7 @@
 /*
 ===========================================================================================================================
 Name : 17c.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write a program to execute ls -l | wc.
             c. use fcntl
 Date: 23rd September, 2025

@@ -17,8 +17,7 @@ Date: 20th Sep, 2025.
 #include <stdio.h>
 #include <unistd.h>
 
-int main()
-{
+int main(){
 
     printf("---------------------System Limitations---------------------\n");
     printf("Maximum length of the arguments to the exec family of functions: %ld\n", sysconf(_SC_ARG_MAX));

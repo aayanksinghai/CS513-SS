@@ -1,7 +1,7 @@
 /*
 ===========================================================================================================================
 Name : 24.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write a program to create a message queue and print the key and message queue id.
 Date: 1st October, 2025
 ===========================================================================================================================

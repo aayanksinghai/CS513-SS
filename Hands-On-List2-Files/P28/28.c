@@ -1,7 +1,7 @@
 /*
 ===========================================================================================================================
 Name : 28.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write a program to change the exiting message queue permission. (use msqid_ds structure)
 Date: 1st October, 2025
 ===========================================================================================================================

@@ -1,7 +1,7 @@
 /*
 ===========================================================================================================================
 Name : 34b.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write a program to create a concurrent server.
         a. use fork
         b. use pthread_create

@@ -1,7 +1,7 @@
 /*
 ===========================================================================================================================
 Name : 20b.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write two programs so that both can communicate by FIFO -Use one way communication.
 Date: 1st October, 2025
 ===========================================================================================================================

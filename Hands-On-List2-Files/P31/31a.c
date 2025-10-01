@@ -1,7 +1,7 @@
 /*
 ===========================================================================================================================
 Name : 31a.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write a program to create a semaphore and initialize value to the semaphore.
             a. create a binary semaphore
             b. create a counting semaphore

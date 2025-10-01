@@ -1,7 +1,7 @@
 /*
 ===========================================================================================================================
 Name : 8b.c
-Author : Aayank Singhai
+Author : Aayank Singhai  (MT2025001)
 Description : Write a separate program using signal system call to catch the following signals.
             b. SIGINT
 Date: 20th September, 2025

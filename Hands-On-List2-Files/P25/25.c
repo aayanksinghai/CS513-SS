@@ -1,7 +1,7 @@
 /*
 ===========================================================================================================================
 Name : 25.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write a program to print a message queue's (use msqid_ds and ipc_perm structures)
             a. access permission
             b. uid, gid

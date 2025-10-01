@@ -1,7 +1,7 @@
 /*
 ===========================================================================================================================
 Name : 12.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write a program to create an orphan process. Use kill system call to send SIGKILL signal to
 the parent process from the child process.
 Date: 21st September, 2025

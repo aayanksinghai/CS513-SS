@@ -1,7 +1,7 @@
 /*
 ============================================================================
 Name : 30a.c
-Author : Aayank Singhai 
+Author : Aayank Singhai (MT2025001)
 Description : Write a program to create a shared memory.
                 a. Write some data to the shared memory
 Date: 16th Sep, 2025.

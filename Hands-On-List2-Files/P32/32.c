@@ -1,7 +1,7 @@
 /*
 ===========================================================================================================================
 Name : 32.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write a program to implement semaphore to protect any critical section.
             a. rewrite the ticket number creation program using semaphore
             b. protect shared memory from concurrent write access

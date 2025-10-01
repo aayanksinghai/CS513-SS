@@ -16,8 +16,7 @@ void show_thread(void)
     printf("This is a thread: %ld\n", pthread_self());
 }
 
-int main()
-{
+int main(){
     pthread_t th1, th2, th3;
 
     pthread_create(&th1, NULL, (void *)show_thread, NULL);

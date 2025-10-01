@@ -1,7 +1,7 @@
 /*
 ========================================================================================================
 Name : 27b.c
-Author : Aayank Singhai
+Author : Aayank Singhai (MT2025001)
 Description : Write a program to receive messages from the message queue.
 		    a. With 0 as a flag
 		    b. with IPC_NOWAIT as a flag
