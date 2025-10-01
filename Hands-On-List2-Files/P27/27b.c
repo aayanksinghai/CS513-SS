@@ -47,6 +47,11 @@ int main(){
 OUTPUT
 ===========================================================================================================================
 
+aayanksinghai@aayanksinghai-Vivobook-ASUSLaptop-K3605ZF-K3605ZF:~/CS513-SS/Hands-On-List2-Files/P27$ ./27b
+Enter message type (positive integer): 3
+Enter message text: 
+Hi I am sending the msg to msgQ. 
+Message sent successfully.
 
 ===========================================================================================================================
 */

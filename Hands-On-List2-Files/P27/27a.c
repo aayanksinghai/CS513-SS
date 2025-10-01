@@ -54,7 +54,14 @@ int main(){
 OUTPUT
 ===========================================================================================================================
 
-
+aayanksinghai@aayanksinghai-Vivobook-ASUSLaptop-K3605ZF-K3605ZF:~/CS513-SS/Hands-On-List2-Files/P27$ ./27a
+Choose flag:
+1.) 0 (blocking)
+2.) IPC_NOWAIT (non-blocking)
+=> 1
+Enter message type:
+3
+Message: Hi I am sending the msg to msgQ.
 
 ===========================================================================================================================
 */
